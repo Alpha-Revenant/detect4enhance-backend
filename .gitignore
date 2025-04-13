@@ -1,0 +1,13 @@
+# Python cache files
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# Model files (if you don't want to include them)
+*.tflite
+*.dat
+
+# Other unnecessary files
+*.log
